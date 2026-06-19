@@ -43,6 +43,10 @@ export function Footer() {
         </div>
         <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-white/10 pt-6 text-xs text-cream/55 sm:flex-row">
           <p>© {new Date().getFullYear()} The Roastline. EST. 26.</p>
+          <div className="flex items-center gap-5">
+            <a href="/privacy" className="hover:text-cream">Privacy</a>
+            <a href="/terms" className="hover:text-cream">Terms</a>
+          </div>
           <p className="uppercase tracking-[0.16em]">Ride the coffee line</p>
         </div>
       </div>
