@@ -21,7 +21,7 @@ const sections: LegalSection[] = [
     body: [
       "We collect only what we need to run the service:",
       [
-        "Account details — your name, email address, and phone number.",
+        "Account details — your name and email address.",
         "Location — your device location, used to show nearby coffee shops, estimate walking times, and (if you allow notifications) alert you when a nearby shop’s discount is live.",
         "Orders & wallet — your order history, prepaid wallet balance, and transactions.",
         "Payment information — processed by our payment provider; we receive a token and the card brand and last four digits, never the full card number.",
